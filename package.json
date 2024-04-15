@@ -6,11 +6,11 @@
   "keywords": ["utils", "format", "money", "phone"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xxx/less-utils"
+    "url": "https://github.com/Tangylin/less-utils"
   },
   "license": "ISC",
-  "homepage": "https://your-package.org",
-  "bugs": "https://github.com/xxx/less-utils/issues",
+  "homepage": "",
+  "bugs": "https://github.com/Tangylin/less-utils/issues",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
